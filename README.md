@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanshwadhva
+- 👋 Hi, I’m @vanshwadhwa
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Power BI, Python and SQL
 - 💞️ I’m looking to collaborate on Python for data visualization and SQL
